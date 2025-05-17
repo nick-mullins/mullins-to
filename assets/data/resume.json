@@ -1,0 +1,59 @@
+{
+  "name": "Nicholas Mullins",
+  "title": "Technology Leader | Software Engineer",
+  "summary": "Technology leader and software engineer with 12+ years of experience building high-performing teams and scalable digital platforms. Proven track record of leading engineering orgs, modernizing legacy systems, and shipping complex solutions that drive business impact. Known for combining technical depth with clear communication, I thrive at the intersection of execution, architecture, and team development. Whether mentoring junior devs or directing large-scale product delivery, I bring clarity, consistency, and a bias toward action.",
+  "experience": [
+    {
+      "role": "Delivery Director",
+      "company": "Merkle",
+      "years": "2013–Present",
+      "description": "Led cross-functional teams to deliver scalable loyalty platforms. Improved delivery velocity by 30%, reduced deployment times by 50%, and mentored engineers into leadership roles. Spearheaded modernization of legacy systems."
+    },
+    {
+      "role": "Adjunct Instructor – Computer Science",
+      "company": "Oakland Community College",
+      "years": "2016–2024",
+      "description": "Taught Game Design, C++, Java, and Swift. Developed project-based curricula, mentored students into industry roles, and bridged academic concepts with real-world tech challenges."
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "Perl",
+    "HTML",
+    "CSS",
+    "SQL",
+    "Bash/Zsh",
+    "Docker",
+    "Git",
+    "GitHub",
+    "CI/CD",
+    "ESLint",
+    "Jira",
+    "Confluence",
+    "System Design",
+    "Code Reviews",
+    "Agile/Scrum",
+    "Cross-functional Collaboration",
+    "Mentorship & Coaching",
+    "Tech Leadership",
+    "Teaching"
+  ],
+  "education": [
+    {
+      "degree": "B.S. in Software Engineering",
+      "school": "University of Michigan – Dearborn",
+      "year": "2013"
+    },
+    {
+      "degree": "M.S. in Computer Science",
+      "school": "University of Michigan – Dearborn",
+      "year": "2017"
+    }
+  ],
+  "links": {
+    "LinkedIn": "https://linkedin.com/in/nicholas-mullins-5ba48341",
+    "GitHub": "https://github.com/nick-mullins",
+    "Blog": "https://mullins.io"
+  }
+}
